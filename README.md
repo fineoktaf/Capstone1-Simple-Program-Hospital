@@ -1,6 +1,7 @@
 # Capstone1-Simple-Program-Hospital
 This simple program only uses if else conditions, loops, and functions.
 link gdrive : https://drive.google.com/file/d/1HvcikkIydutfVzzr0j3FnOOcWEUVTU4z/view?usp=sharing
+link youtube : https://www.youtube.com/watch?v=CRtBdJi3-Zs
 
 Creating a CRUD (Create Read Update and Delete) Program for a Hospital. 
 In this program there are 6 programs consisting of:
